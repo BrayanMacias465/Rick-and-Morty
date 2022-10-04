@@ -1,0 +1,34 @@
+:root{
+    --background-cards: #062226;
+    --background-cards_app: #05292E ; 
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0
+}
+
+h1, h2, h3, h4, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul {
+    padding-left:0;
+    list-style: none;
+}
+
+img{
+    display: block;
+}
+
+button{
+    border: none;
+}
+
+input{
+    outline: none;
+}
